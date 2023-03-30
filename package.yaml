@@ -5,6 +5,8 @@ maintainer: HaskellNixCabalStarter
 license: MIT
 dependencies:
 - base
+- discord-haskell
+- text
 executables:
   app:
     source-dirs: src
